@@ -35,3 +35,4 @@
 ## 笔记（先放这边，后续管理）
 
 * 不推荐全局去安装npm包,用npx
+* commitizen init cz-conventional-changelog --save --save-exact
