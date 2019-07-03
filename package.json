@@ -1,0 +1,28 @@
+{
+  "name": "stu-webpack4",
+  "version": "1.0.0",
+  "description": "工程构建的一系列思考",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bafhvxk70/stu-webpack4.git"
+  },
+  "author": "chenchaoqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bafhvxk70/stu-webpack4/issues"
+  },
+  "homepage": "https://github.com/bafhvxk70/stu-webpack4#readme",
+  "devDependencies": {
+    "commitizen": "^3.1.1",
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
