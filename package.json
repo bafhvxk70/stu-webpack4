@@ -1,7 +1,7 @@
 {
   "name": "stu-webpack4",
   "version": "1.0.0",
-  "description": "工程构建的一系列思考",
+  "description": "webpack pwa spa mpa",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/bafhvxk70/stu-webpack4.git"
   },
+  "keywords": [
+    "webpack4",
+    "bable7",
+    "less",
+    "pwa",
+    "spa",
+    "mpa"
+  ],
   "author": "chenchaoqiang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bafhvxk70/stu-webpack4/issues"
   },
