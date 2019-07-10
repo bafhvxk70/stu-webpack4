@@ -32,6 +32,10 @@
 * React MPA
 * 运营工程
 
+## done
+* add commitizen
+
+
 ## 笔记（先放这边，后续管理）
 
 * changelog
