@@ -4,7 +4,8 @@
   "description": "webpack pwa spa mpa",
   "main": "index.js",
   "scripts": {
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -w -r 0"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   "homepage": "https://github.com/bafhvxk70/stu-webpack4#readme",
   "devDependencies": {
     "commitizen": "^3.1.1",
+    "conventional-changelog": "^3.1.8",
     "cz-conventional-changelog": "^2.1.0"
   },
   "config": {
